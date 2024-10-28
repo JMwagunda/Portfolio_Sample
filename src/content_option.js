@@ -1,40 +1,25 @@
-const logotext = "JOHN";
+const logotext = "JEAN";
 const meta = {
-    title: "John Chuli",
-    description: "I’m John Chuli Frontend Developer _ Cybersecurity Analyst,currently studing Information tech",
+    title: "Jean Maina",
+    description: "I’m Jean Maina Frontend Developer _ Cybersecurity Analyst,currently studing Information tech",
 };
 
 const introdata = {
-    title: "I’m John Chuli",
+    title: "I’m Jean Maina",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
         third: "I develop web apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "My Personal Website",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "A bit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: " An ambitious student who is willing to learn new skills in respective to the technological industry, I am fluent in several programming languages as well as vast in communication skills, problem solving skills and critical thinking.",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "NHIF",
-        date: "2023",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "NSSF",
-        date: "2022",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Ministry of Cooperatives",
-        date: "2024",
-    },
-];
+
 
 const skills = [{
         name: "Python",
@@ -58,24 +43,11 @@ const skills = [{
     },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Web Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-];
 
 const contactConfig = {
-    YOUR_EMAIL: "johnchuli@gmail.com",
-    YOUR_FONE: "(254)7123456789",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "wanjean03@gmail.com",
+    YOUR_FONE: "(254)797733377",
+    description: "You can get in touch with me through these available resources. ",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
@@ -90,11 +62,9 @@ const socialprofils = {
 export {
     meta,
     dataabout,
-    worktimeline,
     skills,
-    services,
     introdata,
     contactConfig,
     socialprofils,
-    logotext,
+    logotext,
 };
